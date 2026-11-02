@@ -11,7 +11,7 @@ An interactive tour of size: from planets and their moons, through the stars and
 
 ## Features
 
-- **Solar System**: planets and moons in their real positions for any date, with real rotation periods and tilts, plus **510 real asteroids, comets and dwarf planets** on their catalogued orbits
+- **Solar System**: planets and moons in their real positions for any date, with real rotation periods and tilts, plus **509 real asteroids, comets and dwarf planets** on their catalogued orbits
 - **One continuous zoom**: fly from the Sun past the Oort cloud and the nearest stars to the whole Milky Way and beyond, using the mouse wheel, the scale ruler or the speed slider
 - **Milky Way from real catalogues**: 109,400 stars, 6,476 open clusters, 196 globular clusters, 4,253 pulsars, named stars and nebulae
 - **Universe from real catalogues**: 10,936 galaxies with measured distances, and every Local Group member in McConnachie's catalogue
