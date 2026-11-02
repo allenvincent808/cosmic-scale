@@ -2,7 +2,12 @@
 
 An interactive tour of size: from planets and their moons, through the stars and nebulae of the Milky Way, out to the cosmic web and the edge of the observable universe.
 
-**Live site:** https://allenvincent808.github.io/cosmic-scale/
+<p align="center">
+  <a href="https://allenvincent808.github.io/cosmic-scale/"><img alt="Launch Cosmic Scale" src="https://img.shields.io/badge/%F0%9F%9A%80_Launch_Cosmic_Scale-open_in_your_browser-ffc96b?style=for-the-badge&labelColor=0c0e1a"></a>
+</p>
+
+<p align="center"><b>▶ <a href="https://allenvincent808.github.io/cosmic-scale/">allenvincent808.github.io/cosmic-scale</a></b><br>
+<sub>Works on desktop and mobile · no install needed</sub></p>
 
 ## Features
 
